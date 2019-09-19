@@ -1,0 +1,1 @@
+{"start_hour":"18","end_hour":"18","start_timestamp":"Fri Mar 10 18:43:19 EST 2017","end_timestamp":"Fri Mar 10 18:43:26 EST 2017","min_elapsed":0.10821666666666667,"min_start_hour":0.10821666666666667,"min_end_hour":0}

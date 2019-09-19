@@ -1,0 +1,4 @@
+{"start_hour":"21","end_hour":"21","start_timestamp":"Sat Mar 18 21:54:45 EDT 2017","end_timestamp":"Sat Mar 18 21:54:50 EDT 2017","min_elapsed":0.07891666666666666,"min_start_hour":0.07891666666666666,"min_end_hour":0}
+{"start_hour":"21","end_hour":"21","start_timestamp":"Sat Mar 18 21:54:52 EDT 2017","end_timestamp":"Sat Mar 18 21:54:58 EDT 2017","min_elapsed":0.0869,"min_start_hour":0.0869,"min_end_hour":0}
+{"start_hour":"21","end_hour":"21","start_timestamp":"Sat Mar 18 21:55:00 EDT 2017","end_timestamp":"Sat Mar 18 21:55:05 EDT 2017","min_elapsed":0.08533333333333333,"min_start_hour":0.08533333333333333,"min_end_hour":0}
+{"start_hour":"21","end_hour":"21","start_timestamp":"Sat Mar 18 21:55:05 EDT 2017","end_timestamp":"Sat Mar 18 21:55:10 EDT 2017","min_elapsed":0.09011666666666666,"min_start_hour":0.09011666666666666,"min_end_hour":0}

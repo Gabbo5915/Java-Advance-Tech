@@ -1,0 +1,6 @@
+Device=carp
+Model=Moto 360
+Brand=motorola
+Android=6.0.1
+Sdk=23
+Version=1.1.9

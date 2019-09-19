@@ -1,0 +1,2 @@
+{"start_hour":"0","end_hour":"0","start_timestamp":"Sun Apr 23 00:29:22 EDT 2017","end_timestamp":"Sun Apr 23 00:29:23 EDT 2017","min_elapsed":0.0175,"min_start_hour":0.0175,"min_end_hour":0}
+{"start_hour":"0","end_hour":"0","start_timestamp":"Sun Apr 23 00:29:25 EDT 2017","end_timestamp":"Sun Apr 23 00:29:33 EDT 2017","min_elapsed":0.1318,"min_start_hour":0.1318,"min_end_hour":0}
