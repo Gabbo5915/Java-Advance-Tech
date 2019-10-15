@@ -7,6 +7,13 @@ import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoCursor;
 
 public class SEARCH {
+	/***
+	 * 
+	 * @param monthAndDay The Month and Day like Mar 6
+	 * @param year	The year like 2016
+	 * @param collection	target MongoDB collection
+	 * @return
+	 */
 	public static int HeartBeats(String monthAndDay,String year,MongoCollection<Document> collection) {
 		int res=0;
 		MongoCursor<Document> pointer=collection.find(eq("sensor_name","HeartRate")).iterator();
@@ -22,6 +29,13 @@ public class SEARCH {
 		return res;
 	}
 	
+	/***
+	 * 
+	 * @param monthAndDay The Month and Day like Mar 6
+	 * @param year	The year like 2016
+	 * @param collection	target MongoDB collection
+	 * @return
+	 */
 	public static int countSteps(String monthAndDay,String year,MongoCollection<Document> collection) {
 		int res=0;
 		MongoCursor<Document> pointer=collection.find(eq("sensor_name","Activity")).iterator();
@@ -37,6 +51,13 @@ public class SEARCH {
 		return res;
 	}
 	
+	/***
+	 * 
+	 * @param monthAndDay The Month and Day like Mar 6
+	 * @param year	The year like 2016
+	 * @param collection	target MongoDB collection
+	 * @return
+	 */
 	public static void isActivity(String monthAndDay,String year,MongoCollection<Document> collection) {
 		MongoCursor<Document> pointer=collection.find(eq("sensor_name","Activity")).iterator();
 		boolean act=false;
