@@ -27,7 +27,6 @@ public class Run {
         File finalDir=new File("src/homework2/temp");// for store all the txt file
         File summary=new File("src/homework2/summary.txt");// summary file
         for(File file:finalDir.listFiles()) {
-        	if(file.getAbsolutePath().contains("SA")) continue;
         	if(file.isDirectory()) {
         		System.out.println(file.getName());
         		DirToTxt.dirToTxt(file, summary);
