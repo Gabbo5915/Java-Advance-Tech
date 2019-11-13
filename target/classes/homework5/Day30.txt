@@ -1,0 +1,1300 @@
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
+{"sensor_name":"Activity","timestamp":"Mon Apr 10 23:58:36 EDT 2017","time_stamp":"Mon Apr 10 23:58:36 EDT 2017","sensor_data":{"step_counts":1171,"step_delta":32}}
+{"sensor_name":"Light","timestamp":"Mon Mar 6 00:55:06 EST 2017","sensor_data":{"lux":18.33333396911621}}
+{"sensor_name":"Battery","timestamp":"Sat Jan 7 07:06:42 EST 2017","sensor_data":{"percent":100,"charging":true}}
+activity(step),2029,Fri Mar 31 19:28:09 EDT 2017,inactive,19:00
+light,185.33333,Sun Apr 16 10:53:36 EDT 2017,less bright,11:00
+battery,100% Charging:true,Tue Feb 14 04:07:45 EST 2017,100% Charging:true,4:00
+bt,Disconnected,Sun Aug 14 21:16:04 EDT 2016,Disconnected,21:00
+bt,Connected,Sun Aug 14 21:16:31 EDT 2016,Connected,21:00
+screenUsage,13,13,Mon Mar 06 13:01:16 EST 2017,Mon Mar 06 13:01:23 EST 2017,0.12365,0.12365,0.0,13:00,13:00
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:48 EDT 2017","sensor_data":{"state":"Disconnected"}}
+{"sensor_name":"BT","timestamp":"Thu Mar 30 10:35:59 EDT 2017","sensor_data":{"state":"Connected"}}
+{"sensor_name":"HeartRate","timestamp":"Mon Mar 6 09:58:32 EST 2017","sensor_data":{"bpm":102}}
+{"start_hour":"22","end_hour":"22","start_timestamp":"Sun Aug 14 22:02:23 EDT 2016","end_timestamp":"Sun Aug 14 22:02:29 EDT 2016","min_elapsed":0.0993,"min_start_hour":0.0993,"min_end_hour":0}
